@@ -1,0 +1,33 @@
+
+.contanier{
+    margin: 40px;
+}
+ img{
+    width: 400px;
+    border-radius: 50%;
+
+
+}
+
+h2{
+    text-align: center;
+    color: red;
+    margin-left: 3.5rem;
+}
+span{
+    color: tomato;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+    justify-content: center;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
